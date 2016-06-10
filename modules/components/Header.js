@@ -67,16 +67,16 @@ class Header extends React.Component {
                     </div>
                     <div className="row">
                         <div className="col-md-3 col-sm-12">
-                            <a href="#"><img className="img-responsive" src="http://s19.postimg.org/5bcch9oyb/cowcutout.png" alt=""/></a>
+                            <a href="/beefandbeefalo"><img className="img-responsive" src="http://s19.postimg.org/5bcch9oyb/cowcutout.png" alt=""/></a>
                         </div>
                         <div className="col-md-3 col-sm-12">
-                            <a href="#"><img className="img-responsive" src="http://s19.postimg.org/vz4pziz6b/pigcutoutsmall.png"/></a>
+                            <a href="/pork"><img className="img-responsive" src="http://s19.postimg.org/vz4pziz6b/pigcutoutsmall.png"/></a>
                         </div>
                         <div className="col-md-3 col-sm-12">
-                            <a href="#"><img className="img-responsive" src="http://s19.postimg.org/4zvt796dv/chickencutout.png"/></a>
+                            <a href="/chicken"><img className="img-responsive" src="http://s19.postimg.org/4zvt796dv/chickencutout.png"/></a>
                         </div>
                         <div className="col-md-3 col-sm-12">
-                            <a href="#"><img className="img-responsive" src="http://s19.postimg.org/4e6ub5bbn/grasscutout.png"/></a>
+                            <a href="/barleygrass"><img className="img-responsive" src="http://s19.postimg.org/4e6ub5bbn/grasscutout.png"/></a>
                         </div>
                     </div>
                 </div>
