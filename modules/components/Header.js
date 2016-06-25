@@ -7,7 +7,8 @@ import {
   contentsectionb,
   banner,
   networkname,
-  mail } from '../styles.css'
+  mail, 
+  circle } from '../styles.css'
 
 class Header extends React.Component {
   render() {
@@ -63,21 +64,31 @@ class Header extends React.Component {
                     <div className="col-lg-12">
                         <hr className="section-heading-spacer-center"/>
                         <div className="clearfix"></div>
-                        <h2 className="section-heading text-center">Our Products</h2>
+                        <h2 className="section-heading text-center">Our Products:</h2>
+                        <p className="text-center">Click for more information</p>
                     </div>
-                    <div className="row">
-                        <div className="col-md-3 col-sm-12">
-                            <a href="/beefandbeefalo"><img className="img-responsive" src="http://s19.postimg.org/5bcch9oyb/cowcutout.png" alt=""/></a>
-                        </div>
-                        <div className="col-md-3 col-sm-12">
-                            <a href="/pork"><img className="img-responsive" src="http://s19.postimg.org/vz4pziz6b/pigcutoutsmall.png"/></a>
-                        </div>
-                        <div className="col-md-3 col-sm-12">
-                            <a href="/chicken"><img className="img-responsive" src="http://s19.postimg.org/4zvt796dv/chickencutout.png"/></a>
-                        </div>
-                        <div className="col-md-3 col-sm-12">
-                            <a href="/barleygrass"><img className="img-responsive" src="http://s19.postimg.org/4e6ub5bbn/grasscutout.png"/></a>
-                        </div>
+                </div>
+                <br />
+                <div className="row">
+                    <div id={circle} className="col-md-3 col-sm-12">
+                        <a href="/beefandbeefalo"><img className="img-responsive center" src="https://s19.postimg.org/r992kguqb/cowround.png" alt=""/></a>
+                        <br />
+                        <h3 className="text-center">Beef/Beefalo</h3>
+                    </div>
+                    <div id={circle} className="col-md-3 col-sm-12">
+                        <a href="/pork"><img className="img-responsive" src="https://s19.postimg.org/7stev25xv/piground.png"/></a>
+                        <br />
+                        <h3 className="text-center">Pork</h3>
+                    </div>
+                    <div id={circle} className="col-md-3 col-sm-12">
+                        <a href="/chicken"><img className="img-responsive" src="https://s19.postimg.org/o14l7f8gj/chickenround.png"/></a>
+                        <br />
+                        <h3 className="text-center">Chicken</h3>
+                    </div>
+                    <div id={circle} className="col-md-3 col-sm-12">
+                        <a href="/barleygrass"><img className="img-responsive" src="https://s19.postimg.org/ej4u7dms3/grassround.png"/></a>
+                        <br />
+                        <h3 className="text-center">Barley Grass</h3>
                     </div>
                 </div>
             </div>
@@ -112,7 +123,7 @@ class Header extends React.Component {
                         <h2>Contact Rocking R Farms:</h2>
                     </div>
                     <div className="col-lg-5">
-                        <a href="https://twitter.com/RockingRFarms" className="btn btn-default btn-lg"><span id={mail} className="glyphicon glyphicon-envelope"></span>
+                        <a href="mailto:info@rockingrfarmsaz.com" className="btn btn-default btn-lg"><span id={mail} className="glyphicon glyphicon-envelope"></span>
                           <span className={networkname}>Email Us at <br /> info@rockingrfarms.com</span>
                         </a>
                     </div>

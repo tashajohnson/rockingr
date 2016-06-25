@@ -24,6 +24,13 @@ h6 {
 .topnav {
     font-size: 14px; 
 }
+#circle {
+    transition: all .2s ease-in-out;
+}
+
+#circle:hover {
+    transform: scale(1.1);
+}
 
 .lead {
     font-size: 18px;
