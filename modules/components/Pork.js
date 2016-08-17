@@ -8,7 +8,7 @@ class Pork extends React.Component {
       <div>
       	<Title render={ prev => `${prev} | Pork` }/>
         <img className="img-responsive" id={logos} src="https://s19.postimg.org/4xftoffrn/pigheader2.jpg" />
-        <h2>Pork</h2>
+        
         
       </div>
     )

@@ -8,7 +8,7 @@ class Chicken extends React.Component {
       <div> 
       	<Title render={ prev => `${prev} | Chicken` }/>
         <img className="img-responsive" id={logos} src="https://s19.postimg.org/wd4w60pzn/chickenheader2.jpg" />
-        <h2>Chicken</h2>
+        
         
       </div>
     )
