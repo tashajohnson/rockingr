@@ -8,7 +8,8 @@
     "react/jsx-no-undef": 2,
     "react/wrap-multilines": 2,
     "no-unused-vars": 1,
-    "indent": 1
+    "indent": 1,
+    "no-mixed-spaces-and-tabs": 1
   },
   "plugins": [
     "react"
