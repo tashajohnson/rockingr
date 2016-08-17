@@ -17,7 +17,7 @@ class Header extends React.Component {
       <div>
 
         <div className={introHeader}>
-            <img className="img-responsive" id={logos} src="https://s19.postimg.org/5ju0iktxv/shadowlogo.png" alt="" />
+            <img className="img-responsive" id={logos} src="https://s19.postimg.org/gm1ftfd77/shadowlogo.png" alt="" />
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
