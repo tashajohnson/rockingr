@@ -8,6 +8,7 @@ class Beef extends React.Component {
       <div>
       	<Title render={ prev => `${prev} | Beef` }/>
         <img className="img-responsive" id={logos} src="https://s19.postimg.org/4tm086aab/cowsheader2.jpg" />
+        <hr />
         
         
       </div>

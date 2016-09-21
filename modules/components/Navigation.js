@@ -22,9 +22,11 @@ class Navigation extends React.Component {
                             <MenuItem eventKey={2.3} href="/chicken">Chicken</MenuItem>
                             <MenuItem eventKey={2.4} href="/barleygrass">Barley Grass</MenuItem>
                             <MenuItem divider />
-                            <MenuItem eventKey={2.4} href="/ordering">How to order</MenuItem>
+                            <MenuItem eventKey={2.5} href="/grassfed">Why Buy Grassfed</MenuItem>
+                            <MenuItem eventKey={2.6} href="/ordering">How to order</MenuItem>
                         </NavDropdown>
-                        <NavItem eventKey={3} href="/contact">Contact</NavItem>
+                        <NavItem eventKey={3} href="/recipes">Recipes</NavItem>
+                        <NavItem eventKey={4} href="/contact">Contact</NavItem>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

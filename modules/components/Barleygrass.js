@@ -8,6 +8,7 @@ class Barleygrass extends React.Component {
       <div>
       	<Title render={ prev => `${prev} | Grass` }/>
         <img className="img-responsive" id={logos} src="https://s19.postimg.org/q8hz6fn9v/grassheader2.jpg" />
+        <hr />
         
         
       </div>

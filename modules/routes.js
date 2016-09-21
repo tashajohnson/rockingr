@@ -15,6 +15,7 @@ import Barleygrass from './components/Barleygrass'
 import Ordering from './components/Ordering'
 import Contact from './components/Contact'
 import Grassfed from './components/Grassfed'
+import Recipes from './components/Recipes'
 
 export default (
   <Route>
@@ -28,6 +29,7 @@ export default (
       <Route path="/ordering" component={Ordering}/>
       <Route path="/contact" component={Contact}/>
       <Route path="/grassfed" component={Grassfed}/>
+      <Route path="/recipes" component={Recipes}/>
     </Route>
     <ServerRoute path="/api">
       <ServerRoute path=":hello" get={hello}/>

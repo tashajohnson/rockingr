@@ -1,11 +1,14 @@
 import React from 'react'
 import Title from 'react-title-component'
+import { logos } from '../styles.css'
 
 class About extends React.Component {
   render() {
     return(
       <div>
         <Title render={ prev => `${prev} | About` }/>
+        <img className="img-responsive" id={logos} src="http://s19.postimg.org/h9o2e4d1v/Aboutus.jpg" />
+        <hr />
         <h2 className="center-align">About Rocking R Farms</h2>
         <p>100% Natural from our farm to your family. We grow the best grass...the animals do the rest!</p> 
         <p>Rocking R Farms grass fed beef, pork, lamb and poultry are healthier for you and your family.</p>
