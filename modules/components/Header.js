@@ -49,7 +49,7 @@ class Header extends React.Component {
                         <hr className="section-heading-spacer" />
                         <div className="clearfix"></div>
                         <h2 className="section-heading">About Our Farm</h2>
-                        <p className="lead">Something here about the farm and a link to the "about" page.</p>
+                        <p className="lead">Our products are 100 percent natural from our farm to your family. We provide flavorful products for people with taste.</p>
                         <a className="btn btn-lg btn-default" href="/about">Our Journey</a>
                     </div>
                     <div className="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -67,7 +67,8 @@ class Header extends React.Component {
                         <hr className="section-heading-spacer"/>
                         <div className="clearfix"></div>
                         <h2 className="section-heading">The Cowboy</h2>
-                        <p className="lead">Something about Ray and how he is recognizable as "The Cowboy"</p>
+                        <p className="lead">"I wanted a traditional family farm where personal care is given to every farm product."</p>
+                        <a className="btn btn-lg btn-default" href="/cowboy">Ray's Story</a>
                     </div>
                     <div className="col-lg-5 col-sm-pull-6  col-sm-6">
                         <img className="img-responsive" src="http://s19.postimg.org/fii0r74wj/headshot.jpg" alt=""/>
@@ -92,7 +93,7 @@ class Header extends React.Component {
                     <div id={circle} className="col-md-3 col-sm-12">
                         <a href="/beefandbeefalo"><img className="img-responsive center" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
                         <br />
-                        <h3 className="text-center">Beef/Beefalo</h3>
+                        <h3 className="text-center">Beef</h3>
                     </div>
                     <div id={circle} className="col-md-3 col-sm-12">
                         <a href="/pork"><img className="img-responsive" src="https://s19.postimg.org/7stev25xv/piground.png"/></a>
@@ -100,14 +101,14 @@ class Header extends React.Component {
                         <h3 className="text-center">Pork</h3>
                     </div>
                     <div id={circle} className="col-md-3 col-sm-12">
+                        <a href="/lamb"><img className="img-responsive" src="https://s19.postimg.org/h4g9x2adv/lamb720.png"/></a>
+                        <br />
+                        <h3 className="text-center">Lamb</h3>
+                    </div>
+                    <div id={circle} className="col-md-3 col-sm-12">
                         <a href="/chicken"><img className="img-responsive" src="https://s19.postimg.org/47cbgowib/chickenround.png"/></a>
                         <br />
                         <h3 className="text-center">Chicken</h3>
-                    </div>
-                    <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/barleygrass"><img className="img-responsive" src="https://s19.postimg.org/ej4u7dms3/grassround.png"/></a>
-                        <br />
-                        <h3 className="text-center">Barley Grass</h3>
                     </div>
                 </div>
             </div>
@@ -123,7 +124,9 @@ class Header extends React.Component {
                         <div className="clearfix"></div>
                         <h2 className="section-heading">Grass Fed Meat</h2>
                         <h3>Better for the Environment - Better for you</h3>
-                        <p className="lead">Here will be a few snippets of info with a button to a page about why you should buy grass fed meat</p>
+                        <p className="lead">Rocking R Farms grass-fed beef, pork, lamb and poultry are healthier 
+                        for you and your family. We are committed to providing 
+                            you with the highest quality grass-fed meat you can buy.</p>
                         <a className="btn btn-default btn-lg" href="/grassfed">Why buy grassfed?</a>
                     </div>
                     <div className="col-lg-5 col-lg-offset-2 col-sm-6">

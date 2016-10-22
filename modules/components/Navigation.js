@@ -17,13 +17,14 @@ class Navigation extends React.Component {
                     <Nav pullRight>
                         <NavItem eventKey={1} href="/about">About</NavItem>
                         <NavDropdown eventKey={2} title="Products" id="basic-nav-dropdown">
-                            <MenuItem eventKey={2.1} href="/beefandbeefalo">Beef/Beefalo</MenuItem>
+                            <MenuItem eventKey={2.1} href="/beef">Beef</MenuItem>
                             <MenuItem eventKey={2.2} href="/pork">Pork</MenuItem>
                             <MenuItem eventKey={2.3} href="/chicken">Chicken</MenuItem>
-                            <MenuItem eventKey={2.4} href="/barleygrass">Barley Grass</MenuItem>
+                            <MenuItem eventKey={2.4} href="/lamb">Lamb</MenuItem>
+                            <MenuItem eventKey={2.5} href="/barleygrass">Barley Grass</MenuItem>
                             <MenuItem divider />
-                            <MenuItem eventKey={2.5} href="/grassfed">Why Buy Grassfed</MenuItem>
-                            <MenuItem eventKey={2.6} href="/ordering">How to order</MenuItem>
+                            <MenuItem eventKey={2.6} href="/grassfed">Why Buy Grassfed</MenuItem>
+                            <MenuItem eventKey={2.7} href="/ordering">How to order</MenuItem>
                         </NavDropdown>
                         <NavItem eventKey={3} href="/recipes">Recipes</NavItem>
                         <NavItem eventKey={4} href="/contact">Contact</NavItem>

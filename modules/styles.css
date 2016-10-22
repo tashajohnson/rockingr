@@ -42,6 +42,10 @@ h6 {
     font-size: 18px;
     font-weight: 400;
 }
+.largeFont {
+    font-size: 36px;
+    font-weight: 400;
+}
 
 .introHeader {
     padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
@@ -197,7 +201,4 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-a:hover {
-    background-color: purple;
-}
 
