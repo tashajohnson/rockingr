@@ -30,13 +30,13 @@ class Header extends React.Component {
                             <hr className={introDivider} />
                             <ul className="list-inline intro-social-buttons">
                                 <li>
-                                    <a href="https://www.facebook.com/Rocking-R-Farms-156564927832278/" className="btn btn-default btn-lg"><i className="fa fa-facebook fa-fw"></i> <span className={networkname}>Facebook</span></a>
+                                    <a href="https://www.facebook.com/Rocking-R-Farms-156564927832278/" target="_blank" className="btn btn-default btn-lg"><i className="fa fa-facebook fa-fw"></i> <span className={networkname}>Facebook</span></a>
                                 </li>
                                 <li>
-                                    <a href="http://www.arizonacommunityfarmersmarkets.com/" className="btn btn-default btn-lg"><span className="glyphicon glyphicon-grain"></span> <span className={networkname}>AZ Farmers Markets</span></a>
+                                    <a href="http://www.arizonacommunityfarmersmarkets.com/" target="_blank" className="btn btn-default btn-lg"><span className="glyphicon glyphicon-grain"></span> <span className={networkname}>AZ Farmers Markets</span></a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/RockingRFarms" className="btn btn-default btn-lg"><i className="fa fa-twitter fa-fw"></i> <span className={networkname}>Twitter</span></a>
+                                    <a href="https://twitter.com/RockingRFarms" target="_blank" className="btn btn-default btn-lg"><i className="fa fa-twitter fa-fw"></i> <span className={networkname}>Twitter</span></a>
                                 </li>
                             </ul>
                         </div>
