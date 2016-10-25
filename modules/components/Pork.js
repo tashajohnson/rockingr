@@ -9,8 +9,26 @@ class Pork extends React.Component {
       	<Title render={ prev => `${prev} | Pork` }/>
         <img className="img-responsive" id={logos} src="https://s19.postimg.org/4xftoffrn/pigheader2.jpg" />
         <hr />
-        
-        
+        <br />
+        <div className="container">
+        <br />
+        	<div className="container">
+		        <p className="lead">The pigs we raise on our farm are only fed Organic Hog feed and barley grass. 
+		        	We do not feed our pig swill or slop! All pork is hormone and antibiotic free. We strive to feed 
+		        	all our animals a diet that keeps them happy and healthy so you get the best meat for your family!
+		        </p>
+		       </div>
+		       <br />
+	       </div>
+        <br />
+        <div className="text-center">
+        	<img src="https://s19.postimg.org/llot0wufn/078.jpg" />
+        </div>
+       	<br />
+        <div className="text-center">
+        	<img src="https://s19.postimg.org/459ewxjbn/068.jpg" />
+        </div>
+        <br />
       </div>
     )
   }

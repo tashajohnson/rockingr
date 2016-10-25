@@ -11,6 +11,9 @@ import {
   circle,
   logos } from '../styles.css'
 
+ const username = "info"
+const address = "rockingrfarmsaz"
+
 class Header extends React.Component {
   render() {
     return(
@@ -145,8 +148,8 @@ class Header extends React.Component {
                         <h2>Contact Rocking R Farms:</h2>
                     </div>
                     <div className="col-lg-5">
-                        <a href="mailto:info@rockingrfarmsaz.com" className="btn btn-default btn-lg"><span id={mail} className="glyphicon glyphicon-envelope"></span>
-                          <span className={networkname}>Email Us at <br /> info@rockingrfarms.com</span>
+                        <a href={`mailto:${username}@${address}.com`} className="btn btn-default btn-lg"><span id={mail} className="glyphicon glyphicon-envelope"></span>
+                          <span className={networkname}>Email Us at <br /> {username}@{address}.com</span>
                         </a>
                     </div>
                 </div>

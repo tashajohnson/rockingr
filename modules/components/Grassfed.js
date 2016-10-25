@@ -52,15 +52,6 @@ class Grassfed extends React.Component {
           <p className="lead">The cattle also graze on our irrigated pastures, which gets rid of any gamy flavor that some people 
           think comes with range-fed cattle.</p> 
         </div>
-        <div className="container">
-          <p className="lead">When cattle are taken from their natural habitat and confined in small quarters, as is done in large 
-          commercial farms and feedlots, the cattle grow at unnatural rates, need medical intervention frequently to compensate and 
-          their stress levels are raised. By letting cattle graze in our pastoral setting, they lead more stress-free lives without 
-          all of the artificial hormones and antibiotics. Studies have shown that stress in animals toughens the meat and lessens the 
-          flavor. Stress raises adrenaline in the body and, just as in our bodies; the natural product of adrenaline activates to tighten 
-          muscles to prepare for a perceived threat. We “toughen up” to handle the problem and so do the cattle.</p> 
-          <br />
-        </div>
 
         <div className="container">
           <div className="row">
@@ -72,28 +63,28 @@ class Grassfed extends React.Component {
               </div>
               <div className="col-lg-8 col-sm-12">
                   <div className="clearfix"></div>
+                  <p className="lead">When cattle are taken from their natural habitat and confined in small quarters, as is done in large 
+                  commercial farms and feedlots, the cattle grow at unnatural rates, need medical intervention frequently to compensate and 
+                  their stress levels are raised.</p>
+                  <p className="lead">By letting cattle graze in our pastoral setting, they lead more stress-free lives without 
+          all of the artificial hormones and antibiotics. Studies have shown that stress in animals toughens the meat and lessens the 
+          flavor. Stress raises adrenaline in the body and, just as in our bodies; the natural product of adrenaline activates to tighten 
+          muscles to prepare for a perceived threat. We “toughen up” to handle the problem and so do the cattle.</p>
                   <p className="lead">Our beef is processed locally; it is hung and dry-aged for 21 days, which builds the flavor
                    and tenderness even more. The industry standard is 7-14 days. Some people don’t like grass-fed meat because they 
                    don’t think it tastes as good. Really, what they taste are range-fed cattle and short aging times. When you age 
                    grass-fed steak for 21 days, you get some of the greatest tasting and most tender steaks in the market.  
                    Our beef is then inspected under Arizona Department of Agriculture regulations before it is sold to you.</p>
-                
-                  <p className="lead">We sell our beef, pork and chicken by the pound at the <a href="http://www.arizonafarmersmarkets.com/pageScottsdaleOldtown/ScottsdaleOTsat.htm" target="_blank">Scottsdale Old Town Farmer’s Market</a> every 
-                  Saturday morning. The market is open in the fall through spring. It is at 3806 E. Brown Road in Scottsdale, AZ, 85251 
-                  (corner of Brown & First Street).  Additionally, we take orders by email and deliver the product to our customers at 
-                  the market.</p>
-                  <p className="lead">When cattle are taken from their natural habitat and confined in small quarters, as is done in large 
-                  commercial farms and feedlots, the cattle grow at unnatural rates, need medical intervention frequently to compensate and 
-                  their stress levels are raised.</p>
               </div>
           </div>
         </div>
 
         <div className="container">
-          <p className="lead">By letting cattle graze in our pastoral setting, they lead more stress-free lives without 
-          all of the artificial hormones and antibiotics. Studies have shown that stress in animals toughens the meat and lessens the 
-          flavor. Stress raises adrenaline in the body and, just as in our bodies; the natural product of adrenaline activates to tighten 
-          muscles to prepare for a perceived threat. We “toughen up” to handle the problem and so do the cattle.</p> 
+          <p className="lead">We sell our beef, pork and chicken by the pound at the <a href="http://www.arizonafarmersmarkets.com/pageScottsdaleOldtown/ScottsdaleOTsat.htm" target="_blank">Scottsdale Old Town Farmer’s Market</a> every 
+                  Saturday morning. The market is open in the fall through spring. It is at 3806 E. Brown Road in Scottsdale, AZ, 85251 
+                  (corner of Brown & First Street).  Additionally, we take orders by email and deliver the product to our customers at 
+                  the market.</p>
+           
           <br />
         </div>
         <img className="img-responsive" width="800px" id={logos} src="https://s19.postimg.org/51ay9hzbn/big_daddy.jpg" />

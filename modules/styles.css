@@ -111,6 +111,12 @@ h6 {
     font-weight: 400;
     letter-spacing: 2px;
 }
+.network {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
 
 .contentsectiona {
     padding: 50px 0;
@@ -199,6 +205,11 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.greyback {
+    background-color: grey;
+    color: white;
 }
 
 
