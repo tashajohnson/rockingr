@@ -39,7 +39,7 @@ class Recipes extends React.Component {
           <p className="lead">The main thing to keep in mind is that the meat should be handled gently when cooking. Lower heat and attention 
                 to not overcooking the meat is optimal for juicy and tender results. Grassfed beef in particular does better when cooked to a medium rare finish.
                 Marinating and tenderizing your beef are also excellent techniques for a juicy product and cooking with a thermometer is highly recommended.
-                Use tongs and not a fork or knife when turning meat to avoid losing juices. Reguardless of cooking technique it is helpful to 
+                Use tongs and not a fork or knife when turning meat to avoid losing juices. Regardless of cooking technique it is helpful to 
                 sear the outside of the cut to retain the juices before grilling, stove top cooking on a lower heat, or roasting.
                 Let the meat sit for a few minutes after cooking before serving to allow juices to be absorbed and not lost. </p> 
           <br />

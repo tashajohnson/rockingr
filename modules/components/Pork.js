@@ -14,7 +14,7 @@ class Pork extends React.Component {
         <br />
         	<div className="container">
 		        <p className="lead">The pigs we raise on our farm are only fed Organic Hog feed and barley grass. 
-		        	We do not feed our pig swill or slop! All pork is hormone and antibiotic free. We strive to feed 
+		        	We do not feed our pigs swill or slop! All pork is hormone and antibiotic free. We strive to feed 
 		        	all our animals a diet that keeps them happy and healthy so you get the best meat for your family!
 		        </p>
 		       </div>

@@ -94,7 +94,7 @@ class Header extends React.Component {
                 <br />
                 <div className="row text-center">
                     <div id={circle} className="col-md-3 col-sm-12 center-block">
-                        <a href="/beefandbeefalo"><img className="center-block" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
+                        <a href="/beef"><img className="center-block" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
                         <br />
                         <h3 className="text-center">Beef</h3>
                     </div>
