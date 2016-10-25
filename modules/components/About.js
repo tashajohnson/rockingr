@@ -100,6 +100,11 @@ class About extends React.Component {
           <br />
         </div>
 
+        <div className="container text-center">
+          <p className="lead"><a href="/cowboy">Read more about Ray Epps the "Cowboy"</a></p> 
+          <br />
+        </div>
+
         <div className="container">
           <p><em>Rocking R Farms is an LLC registered farm.</em></p> 
           <br />
