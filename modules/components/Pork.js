@@ -22,11 +22,11 @@ class Pork extends React.Component {
 	       </div>
         <br />
         <div className="text-center">
-        	<img src="https://s19.postimg.org/llot0wufn/078.jpg" />
+        	<img className="img-responsive" src="https://s19.postimg.org/llot0wufn/078.jpg" />
         </div>
        	<br />
         <div className="text-center">
-        	<img src="https://s19.postimg.org/459ewxjbn/068.jpg" />
+        	<img className="img-responsive" src="https://s19.postimg.org/459ewxjbn/068.jpg" />
         </div>
         <br />
       </div>

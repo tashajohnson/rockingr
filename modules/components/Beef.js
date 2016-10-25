@@ -22,7 +22,7 @@ class Beef extends React.Component {
 	       The health benefits, flavor, and tenderness are well worth it.</p>
 	       <br />
 		      <div className="text-center">
-		       	<img width="75%" src="https://s19.postimg.org/4ai83pwyb/big_daddy.jpg" />
+		       	<img className="img-responsive" src="https://s19.postimg.org/4ai83pwyb/big_daddy.jpg" />
 		      </div>
 	       <br />
        </div>

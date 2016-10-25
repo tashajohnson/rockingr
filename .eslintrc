@@ -9,7 +9,8 @@
     "react/wrap-multilines": 2,
     "no-unused-vars": 1,
     "indent": 1,
-    "no-mixed-spaces-and-tabs": 1
+    "no-mixed-spaces-and-tabs": 1,
+    "quotes": 1
   },
   "plugins": [
     "react"

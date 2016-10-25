@@ -92,9 +92,9 @@ class Header extends React.Component {
                     </div>
                 </div>
                 <br />
-                <div className="row">
+                <div className="row text-center">
                     <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/beefandbeefalo"><img className="img-responsive center" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
+                        <a href="/beefandbeefalo"><img className="img-responsive" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
                         <br />
                         <h3 className="text-center">Beef</h3>
                     </div>
@@ -104,7 +104,7 @@ class Header extends React.Component {
                         <h3 className="text-center">Pork</h3>
                     </div>
                     <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/lamb"><img className="img-responsive" src="https://s19.postimg.org/h4g9x2adv/lamb720.png"/></a>
+                        <a href="/lamb"><img className="img-responsive text-center" src="https://s19.postimg.org/h4g9x2adv/lamb720.png"/></a>
                         <br />
                         <h3 className="text-center">Lamb</h3>
                     </div>

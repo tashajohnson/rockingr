@@ -20,7 +20,7 @@ class Chicken extends React.Component {
           <br />
         </div>
         <div className="text-center">
-        	<img src="https://s19.postimg.org/fuymn6mfn/free_range.jpg" alt="chickens in a pasture" />
+        	<img className="img-responsive" src="https://s19.postimg.org/fuymn6mfn/free_range.jpg" alt="chickens in a pasture" />
         </div>
         <br />
         <br />
