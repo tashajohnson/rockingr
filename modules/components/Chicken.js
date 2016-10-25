@@ -19,7 +19,7 @@ class Chicken extends React.Component {
           <p className="lead">Poultry will available on a seasonal basis - first availability Spring 2017</p>
           <br />
         </div>
-        <div className="text-center">
+        <div className="col-md-offset-2">
         	<img className="img-responsive" src="https://s19.postimg.org/fuymn6mfn/free_range.jpg" alt="chickens in a pasture" />
         </div>
         <br />
