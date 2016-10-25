@@ -93,23 +93,23 @@ class Header extends React.Component {
                 </div>
                 <br />
                 <div className="row text-center">
-                    <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/beefandbeefalo"><img className="img-responsive" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
+                    <div id={circle} className="col-md-3 col-sm-12 center-block">
+                        <a href="/beefandbeefalo"><img className="center-block" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
                         <br />
                         <h3 className="text-center">Beef</h3>
                     </div>
-                    <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/pork"><img className="img-responsive" src="https://s19.postimg.org/7stev25xv/piground.png"/></a>
+                    <div id={circle} className="col-md-3 col-sm-12 text-center">
+                        <a href="/pork"><img className="center-block" src="https://s19.postimg.org/7stev25xv/piground.png"/></a>
                         <br />
                         <h3 className="text-center">Pork</h3>
                     </div>
-                    <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/lamb"><img className="img-responsive text-center" src="https://s19.postimg.org/h4g9x2adv/lamb720.png"/></a>
+                    <div id={circle} className="col-md-3 col-sm-12 text-center">
+                        <a href="/lamb"><img className="center-block" src="https://s19.postimg.org/h4g9x2adv/lamb720.png"/></a>
                         <br />
                         <h3 className="text-center">Lamb</h3>
                     </div>
-                    <div id={circle} className="col-md-3 col-sm-12">
-                        <a href="/chicken"><img className="img-responsive" src="https://s19.postimg.org/47cbgowib/chickenround.png"/></a>
+                    <div id={circle} className="col-md-3 col-sm-12 text-center">
+                        <a href="/chicken"><img className="center-block" src="https://s19.postimg.org/47cbgowib/chickenround.png"/></a>
                         <br />
                         <h3 className="text-center">Chicken</h3>
                     </div>
