@@ -32,6 +32,70 @@ class Lamb extends React.Component {
             </div>
         </div>
         <br />
+        <div className="container" width="75%">
+         <table className="table table-hover lead">
+          <thead>
+            <tr>
+              <th><h4>Item</h4></th>
+              <th><h4>Price</h4></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Loin Chops</td>
+              <td>$23.00</td>
+            </tr>
+            <tr>
+              <td>Rack of Lamb</td>
+              <td>$23.00</td>
+            </tr>
+            <tr>
+              <td>Leg of Lamb Bone In (whole or split)</td>
+              <td>$14.50</td>
+            </tr>
+            <tr>
+              <td>Leg of Lamb Boneless (whole or split)</td>
+              <td>$19.50</td>
+            </tr>
+            <tr>
+              <td>Shoulder Roast</td>
+              <td>$12.50</td>
+            </tr>
+            <tr>
+              <td>Shoulder Blade Steaks</td>
+              <td>$12.50</td>
+            </tr>
+            <tr>
+              <td>Ground Lamb</td>
+              <td>$11.95</td>
+            </tr>
+            <tr>
+              <td>Stew Meat</td>
+              <td>$11.95</td>
+            </tr>
+            <tr>
+              <td>Ribs</td>
+              <td>$8.00</td>
+            </tr>
+            <tr>
+              <td>Shanks</td>
+              <td>$9.95</td>
+            </tr>
+            <tr>
+              <td>Kebobs</td>
+              <td>$18.50</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>Organ Meat</td>
+              <td>$4.00</td>
+            </tr>
+          </tbody>
+         </table>
+        </div>
         
       </div>
     )

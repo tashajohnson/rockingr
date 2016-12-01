@@ -19,6 +19,94 @@ class Pork extends React.Component {
 		        </p>
 		       </div>
 		       <br />
+           <div className="container" width="75%">
+             <table className="table table-hover lead">
+              <thead>
+                <tr>
+                  <th><h4>Item</h4></th>
+                  <th><h4>Price</h4></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Baby Back Ribs</td>
+                  <td>$13.50</td>
+                </tr>
+                <tr>
+                  <td>Bacon</td>
+                  <td>$12.50</td>
+                </tr>
+                <tr>
+                  <td>Blade Roast</td>
+                  <td>$9.00</td>
+                </tr>
+                <tr>
+                  <td>Blade Steak</td>
+                  <td>$9.00</td>
+                </tr>
+                <tr>
+                  <td>Ground Breakfast Sausage</td>
+                  <td>$9.00</td>
+                </tr>
+                <tr>
+                  <td>Ground Italian Sausage</td>
+                  <td>$9.00</td>
+                </tr>
+                <tr>
+                  <td>Ground Pork</td>
+                  <td>$8.00</td>
+                </tr>
+                <tr>
+                  <td>Ham Roast, cured</td>
+                  <td>$11.50</td>
+                </tr>
+                <tr>
+                  <td>Hame Steak</td>
+                  <td>$10.50</td>
+                </tr>
+                <tr>
+                  <td>Hocks</td>
+                  <td>$8.50</td>
+                </tr>
+                <tr>
+                  <td>Italian Sausage Links</td>
+                  <td>$9.50</td>
+                </tr>
+                <tr>
+                  <td>Loin Roast</td>
+                  <td>$9.50</td>
+                </tr>
+                <tr>
+                  <td>Pork Chops - 2/Pack</td>
+                  <td>$12.50</td>
+                </tr>
+                <tr>
+                  <td>Shoulder Roast</td>
+                  <td>$11.50</td>
+                </tr>
+                <tr>
+                  <td>Spare Ribs</td>
+                  <td>$12.50</td>
+                </tr>
+                <tr>
+                  <td>Stew Meat</td>
+                  <td>$10.00</td>
+                </tr>
+                <tr>
+                  <td>Tenderloin Roast</td>
+                  <td>$14.50</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>Neck Bones</td>
+                  <td>$4.95</td>
+                </tr>
+              </tbody>
+             </table>
+            </div>
 	       </div>
         <br />
         <div className="col-md-offset-2">

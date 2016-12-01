@@ -44,6 +44,155 @@ class Beef extends React.Component {
 	         grass-fed steak for 21 days, you get some of the greatest tasting and most tender steaks in the market.  
          Our beef is then inspected under Arizona Department of Agriculture regulations before it is sold to you.</p>
        </div>
+       <br />
+       <div className="container" width="75%">
+             <table className="table table-hover lead">
+              <thead>
+                <tr>
+                  <th><h4>Item</h4></th>
+                  <th><h4>Price</h4></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Brisket</td>
+                  <td>$9.50</td>
+                </tr>
+                <tr>
+                  <td>Chuck Roast</td>
+                  <td>$9.50</td>
+                </tr>
+                <tr>
+                  <td>Flat Iron Steak</td>
+                  <td>$12.00</td>
+                </tr>
+                <tr>
+                  <td>Ground Beef</td>
+                  <td>$7.75</td>
+                </tr>
+                <tr>
+                  <td>New York Strip Steak - 2/Pack</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <td>Porterhouse Steak - 2/Pack</td>
+                  <td>$24.00</td>
+                </tr>
+                <tr>
+                  <td>Boneless Ribeye Steaks - 2/Pack</td>
+                  <td>$22.00</td>
+                </tr>
+                <tr>
+                  <td>Rib Steak - 2/Pack</td>
+                  <td>$21.00</td>
+                </tr>
+                <tr>
+                  <td>Round Steak</td>
+                  <td>$9.50</td>
+                </tr>
+                <tr>
+                  <td>Round Roast</td>
+                  <td>$9.50</td>
+                </tr>
+                <tr>
+                  <td>Short Ribs</td>
+                  <td>$7.95</td>
+                </tr>
+                <tr>
+                  <td>Sirloin Tip Roast</td>
+                  <td>$12.00</td>
+                </tr>
+                <tr>
+                  <td>Top Sirloin Steak - 2/Pack</td>
+                  <td>$14.00</td>
+                </tr>
+                <tr>
+                  <td>Sirloin Steak - 2/Pack</td>
+                  <td>$14.00</td>
+                </tr>
+                <tr>
+                  <td>Skirt Steak</td>
+                  <td>$14.00</td>
+                </tr>
+                <tr>
+                  <td>Stew Meat</td>
+                  <td>$8.50</td>
+                </tr>
+                <tr>
+                  <td>T-Bone Steak - 2/Pack</td>
+                  <td>$18.00</td>
+                </tr>
+                <tr>
+                  <td>Tenderlion Steak - 2/Pack</td>
+                  <td>$32.00</td>
+                </tr>
+                <tr>
+                  <td>Top Sirloin Steak - 2/Pack</td>
+                  <td>$14.00</td>
+                </tr>
+                <tr>
+		              <td>Bratswurst Links</td>
+		              <td>$10.00</td>
+		            </tr>
+		            <tr>
+		              <td>Country Style Ribs</td>
+		              <td>$7.95</td>
+		            </tr>
+		            <tr>
+		              <td>Cross Rib Roast</td>
+		              <td>$9.50</td>
+		            </tr>
+		            <tr>
+		              <td>Cube Steak</td>
+		              <td>$9.50</td>
+		            </tr>
+		            <tr>
+		              <td>Del Monico Steaks</td>
+		              <td>$12.00</td>
+		            </tr>
+		            <tr>
+		              <td>Flank Steak</td>
+		              <td>$15.00</td>
+		            </tr>
+		            <tr>
+		              <td>Flanken Ribs</td>
+		              <td>$8.95</td>
+		            </tr>
+		            <tr>
+		              <td>London Broil</td>
+		              <td>$9.50</td>
+		            </tr>
+		            <tr>
+		              <td>Shanks</td>
+		              <td>$4.95</td>
+		            </tr>
+		            <tr>
+		              <td>Sirloin Tip Steak</td>
+		              <td>$12.00</td>
+		            </tr>
+		            <tr>
+		              <td>Petite Tender</td>
+		              <td>$15.00</td>
+		            </tr>
+		            <tr>
+		              <td>Tri Tip</td>
+		              <td>$12.00</td>
+		            </tr>
+		            <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+		            <tr>
+		              <td>Organ Meats</td>
+		              <td>$4.00</td>
+		            </tr>
+		            <tr>
+		              <td>Soup Neck Bones</td>
+		              <td>$4.95</td>
+		            </tr>
+              </tbody>
+             </table>
+            </div>
         
       </div>
     )
