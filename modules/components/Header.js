@@ -20,7 +20,7 @@ class Header extends React.Component {
       <div>
 
         <div className={introHeader}>
-            <img className="img-responsive" id={logos} src="https://s19.postimg.org/gm1ftfd77/shadowlogo.png" alt="" />
+            <img className="img-responsive" id={logos} src="https://i.postimg.cc/YCSnXJgR/shadowlogo.png" alt="" />
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
@@ -56,7 +56,7 @@ class Header extends React.Component {
                         <a className="btn btn-lg btn-default" href="/about">Our Journey</a>
                     </div>
                     <div className="col-lg-5 col-lg-offset-2 col-sm-6">
-                        <img className="img-responsive" src="https://s19.postimg.org/7xgjnbxqr/familyfarm.jpg" alt="" />
+                        <img className="img-responsive" src="https://i.postimg.cc/YCCvNNz1/familyfarm.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ class Header extends React.Component {
                         <a className="btn btn-lg btn-default" href="/cowboy">Ray's Story</a>
                     </div>
                     <div className="col-lg-5 col-sm-pull-6  col-sm-6">
-                        <img className="img-responsive" src="http://s19.postimg.org/fii0r74wj/headshot.jpg" alt=""/>
+                        <img className="img-responsive" src="https://i.postimg.cc/qv7yMXMk/headshot.jpg" alt=""/>
                     </div>
                 </div>
             </div>
@@ -94,22 +94,22 @@ class Header extends React.Component {
                 <br />
                 <div className="row text-center">
                     <div id={circle} className="col-md-3 col-sm-12 center-block">
-                        <a href="/beef"><img className="center-block" src="https://s19.postimg.org/vgnov6xlf/cowround.png" alt=""/></a>
+                        <a href="/beef"><img className="center-block" src="https://i.postimg.cc/x1dH13wk/cowround.png" alt=""/></a>
                         <br />
                         <h3 className="text-center">Beef</h3>
                     </div>
                     <div id={circle} className="col-md-3 col-sm-12 text-center">
-                        <a href="/pork"><img className="center-block" src="https://s19.postimg.org/7stev25xv/piground.png"/></a>
+                        <a href="/pork"><img className="center-block" src="https://i.postimg.cc/RZVhpkX2/piground.png"/></a>
                         <br />
                         <h3 className="text-center">Pork</h3>
                     </div>
                     <div id={circle} className="col-md-3 col-sm-12 text-center">
-                        <a href="/lamb"><img className="center-block" src="https://s19.postimg.org/h4g9x2adv/lamb720.png"/></a>
+                        <a href="/lamb"><img className="center-block" src="https://i.postimg.cc/2SSkLXLJ/lamb720.png"/></a>
                         <br />
                         <h3 className="text-center">Lamb</h3>
                     </div>
                     <div id={circle} className="col-md-3 col-sm-12 text-center">
-                        <a href="/chicken"><img className="center-block" src="https://s19.postimg.org/47cbgowib/chickenround.png"/></a>
+                        <a href="/chicken"><img className="center-block" src="https://i.postimg.cc/mgrXWMVj/chickenround.png"/></a>
                         <br />
                         <h3 className="text-center">Chicken</h3>
                     </div>
@@ -133,7 +133,7 @@ class Header extends React.Component {
                         <a className="btn btn-default btn-lg" href="/grassfed">Why buy grassfed?</a>
                     </div>
                     <div className="col-lg-5 col-lg-offset-2 col-sm-6">
-                        <img className="img-responsive" src="https://s19.postimg.org/vzxdi7edv/food_1146822_640.jpg" alt=""/>
+                        <img className="img-responsive" src="https://i.postimg.cc/y88Hpv58/food-1146822-640.jpg" alt=""/>
                     </div>
                 </div>
             </div>
